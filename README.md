@@ -1,5 +1,6 @@
 # Pytest Lab: Creating a Code Challenge Test Suite
 
+<<<<<<< ours
 ## Overview
 
 ### Introduction: Algorithms in Interviews & Testing
